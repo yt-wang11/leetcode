@@ -13,3 +13,4 @@ function binarySearch(target,arr) {
   }
   return -1;
 }
+addEventListener
